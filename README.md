@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, ich bin Ernie 👋
 
-<!--
-**see-coding/see-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance-Entwickler aus NRW. Ich baue Shopware-6-Themes und -Plugins für Agenturen und Shopbetreiber, dazu Web-Apps und iOS-Apps.
 
-Here are some ideas to get you started:
+**Womit ich arbeite:** Shopware 6 (PHP, Twig, SCSS) · TypeScript/React · Astro · Swift
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ausgewählte Projekte
+
+- [erniez28.de](https://github.com/see-coding/erniez28-freelance-website) – meine Freelance-Website (Astro, GSAP)
+- [Custom Blocks für Shopware 6](https://github.com/see-coding/Erniez28-Custom-Blocks-4-SW_sw-plugin) – Erlebniswelten-Blöcke aus meinem eigenen Theme
+- [Custom Uptime Dashboard](https://github.com/see-coding/custom-uptime-dashboard) – Uptime- und SSL-Überwachung
+- [ViveQode](https://viveqode.com) – dynamische QR-Codes und Smart Links
+
+## Kontakt
+
+[erniez28.de](https://erniez28.de) · [LinkedIn](https://www.linkedin.com/in/see-sascha-ernst) · mail@erniez28.de
